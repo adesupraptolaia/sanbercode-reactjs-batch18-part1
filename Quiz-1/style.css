@@ -1,0 +1,48 @@
+.kiri {
+    background-color: black;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.kiri p {
+    color: white;
+}
+
+.kiri li {
+    color: darkgrey;
+    margin-top: 25px;
+}
+
+.kanan h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.kanan {
+    position: absolute;
+    height: 100px;
+    margin-left: 50px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.gambar {
+    height: 300px;
+    width: 300px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.teks {
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    margin-left: 20px;
+    font-size: 25px;
+}
